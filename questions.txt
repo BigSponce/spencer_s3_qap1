@@ -1,0 +1,11 @@
+Q1: This assignment took me roughly 2 hours to finish, although I was taking my time as to avoid mistakes.
+
+Q2: I used StackOverflow to figure out the formatting for the toString methods, but beyond that nothing else was used.
+
+Q3: I didn't need to ask any questions to friends.
+
+Q4: I didn't need to ask any questions to instructors.
+
+Q5: This assignment was reasonable in difficulty. 
+It took some thinking, but overall we had the majority of the skills required.
+I think we could totally solve more problems that are of equivalent difficulty.
